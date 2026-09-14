@@ -35,7 +35,7 @@ Embedded SW를 향해 공부 중인 컴퓨터공학과 3학년입니다.
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
 | [algorithm-study](https://github.com/lee-heonju/algorithm-study) | 알고리즘 문제풀이 기록 | Java |
-| [dev-log](https://github.com/lee-heonju/Embedded) | 임베디드 학습 기록 (아두이노) | C |
+| [Embedded](https://github.com/lee-heonju/Embedded) | 임베디드 학습 기록 (아두이노) | C |
 | [TIL](https://github.com/lee-heonju/TIL) | Today I Learned | - |
 | 캡스톤 디자인 | ? | Spring Boot |
 
