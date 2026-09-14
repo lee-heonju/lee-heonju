@@ -1,6 +1,6 @@
 # Hi, I'm HeonJu Lee 👋
 
-**Computer Science Student @ Sahmyook University**  
+** gjswn0712@syu.ac.kr **  
 Embedded SW를 향해 공부 중인 컴퓨터공학과 3학년입니다.
 
 ---
@@ -9,8 +9,8 @@ Embedded SW를 향해 공부 중인 컴퓨터공학과 3학년입니다.
 
 - 🎓 삼육대학교 컴퓨터공학과 3학년 (2022 ~)
 - 🔬 학부 연구실 — 4족보행 로봇 (DOGZILLA-Lite), Linux 기반 임베디드 시스템
-- 🎯 목표: 차량 임베디드 SW 개발자
-- 📖 현재: 알고리즘 스터디 | 아두이노 임베디드 입문 | 캡스톤 디자인 (Spring Boot)
+- 🎯 목표: 임베디드 SW 개발자
+- 📖 현재: 알고리즘 스터디 | 임베디드 입문 | 캡스톤 디자인 (Spring Boot)
 
 ---
 
@@ -20,7 +20,6 @@ Embedded SW를 향해 공부 중인 컴퓨터공학과 3학년입니다.
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **배워가는 중**
@@ -39,7 +38,7 @@ Embedded SW를 향해 공부 중인 컴퓨터공학과 3학년입니다.
 | [algorithm-study](https://github.com/lee-heonju/algorithm-study) | 알고리즘 문제풀이 기록 | Java |
 | [dev-log](https://github.com/lee-heonju/dev-log) | 임베디드 학습 기록 (아두이노) | C |
 | [TIL](https://github.com/lee-heonju/TIL) | Today I Learned | - |
-| 캡스톤 디자인 | 졸업 시뮬레이터 웹 서비스 | Spring Boot |
+| 캡스톤 디자인 | ? | Spring Boot |
 
 ---
 
